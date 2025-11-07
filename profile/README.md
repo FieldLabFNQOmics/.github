@@ -1,4 +1,4 @@
-# FieldLabFNQOmics
+# FieldLabFNQOmics: Bioinformatics in the Tropics
 This repo contains work from the team of Professor Matt Field in Cairns, Australia
 
 <img width="108" height="120" alt="CTBMB Symbol (col)" src="https://github.com/user-attachments/assets/9f11f90c-ab2f-4005-a367-8ba34bb83406" />
